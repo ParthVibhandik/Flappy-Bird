@@ -15,8 +15,8 @@ body{
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    top: 660px;
-    left: 500px;
+    top: 680px;
+    left: 470px;
     background: linear-gradient();
     animation: animate 2s linear infinite;
 } 
@@ -70,8 +70,8 @@ body{
     
     background: transparent;
 
-    left: 500px;
-    top: 660px;
+    left: 470px;
+    top: 680px;
 
     border: 1px solid orange;
     border-radius: 50%;
